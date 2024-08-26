@@ -1,0 +1,17 @@
+{
+  "name": "church-api",
+  "version": "0.0.1",
+  "main": "index.ts",
+  "scripts": {
+    "run": "ts-node index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kasci",
+  "license": "MIT",
+  "description": "",
+  "dependencies": {
+    "@types/node": "^22.5.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.5.4"
+  }
+}
