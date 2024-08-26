@@ -1,1 +1,3 @@
-console.log("Hello World from Church API!");
+import { log } from './src/paschalCycle'
+
+log(2025,3,17);
