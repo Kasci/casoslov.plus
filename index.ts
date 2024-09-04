@@ -1,3 +1,6 @@
-import { log } from './src/paschalCycle'
+import { getRule } from './src/rules';
 
-log(2025,3,17);
+console.log(getRule(2024,9,4));
+console.log(getRule(2024,9,5));
+console.log(getRule(2024,9,10));
+console.log(getRule(2024,9,22));
